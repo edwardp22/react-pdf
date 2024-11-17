@@ -50,6 +50,7 @@ type StandardPageSize =
   | 'FOLIO'
   | 'LEGAL'
   | 'LETTER'
+  | 'HALF-LETTER'
   | 'TABLOID'
   | 'ID1';
 

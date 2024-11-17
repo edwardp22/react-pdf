@@ -60,6 +60,7 @@ const SIZES = {
   FOLIO: [612.0, 936.0],
   LEGAL: [612.0, 1008.0],
   LETTER: [612.0, 792.0],
+  'HALF-LETTER': [612.0, 396.0],
   TABLOID: [792.0, 1224.0]
 };
 
